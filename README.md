@@ -11,7 +11,7 @@ I have acquired proficiency in a lot of programming languages, tools, and techno
 <h3>
 <li>Programming Languages: Python, JavaScript, Java, C++</li>
 <li>Web Development: HTML, CSS, React.js, Node.js</li>
-<!-- Database Management: SQL, MongoDB -->
+<!-- Update Later: Database Management: SQL, MongoDB -->
 <li>Version Control: Git</li>
 <li>Problem Solving and Algorithms</li>
 </h3>
@@ -29,9 +29,6 @@ Fellow Developer, let's collaborate on projects, and engage in stimulating discu
   <a href="https://www.linkedin.com/in/shreyas-salankimatt-83588a260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
   <a href="https://twitter.com/shreyas_078">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
