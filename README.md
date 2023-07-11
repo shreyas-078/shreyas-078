@@ -15,7 +15,7 @@ I have acquired proficiency in a lot of programming languages, tools, and techno
 <li>Version Control: Git</li>
 <li>Problem Solving and Algorithms</li>
 </h3>
-I enjoy solving complex problems using innovative approaches.I aim to push the boundaries of my knowledge and deliver high-quality solutions with every block of code I write.
+I enjoy solving complex problems using innovative approaches. I aim to push the boundaries of my knowledge and deliver high-quality solutions with every block of code I write.
 
 <h2>Projects: </h2>
 While I am proud of the progress I have made, I am continually working on expanding my project portfolio, and will soon be posting links to my work here.
