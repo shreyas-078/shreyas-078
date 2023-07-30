@@ -6,7 +6,7 @@ My name is Shreyas Salankimatt, and I have a deep passion for coding and everyth
 My background in computer science and engineering has given me a solid foundation as a devoted software lover. I'm constantly experimenting with new technologies and aiming for perfection in my work since I'm passionate about coding. I'm dedicated to developing professionally and am continuously looking for ways to put my knowledge and talents to use.
 
 <h2>Skills:</h2>
-I've gotten good at using a variety of technologies, tools, and programming languages. Here are a few examples:<br>
+I'm good at using a variety of modern technologies, tools, and programming languages. Here are a few examples:<br>
 
 <h3>
 <li>Programming Languages: C, C++, Python, Java</li>
