@@ -10,8 +10,8 @@ I have acquired proficiency in a lot of programming languages, tools, and techno
 
 <h3>
 <li>Programming Languages: Python, JavaScript, Java, C++</li>
-<li>Web Development: HTML, CSS, React.js, Node.js</li>
-<!-- Update Later: Database Management: SQL, MongoDB -->
+<li>Web Development: HTML, CSS, Javascript, React.js, Node.js</li>
+<li>Database Management: SQL, MongoDB</li>
 <li>Version Control: Git</li>
 <li>Problem Solving and Algorithms</li>
 </h3>
