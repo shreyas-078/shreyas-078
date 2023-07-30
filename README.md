@@ -3,13 +3,13 @@ Welcome to my coding portfolio!<img src="https://media.giphy.com/media/hvRJCLFzc
 My name is Shreyas Salankimatt, and I have a deep passion for coding and everything about to software development. This About serves as a showcase of my skills, interests, and projects. Feel free to explore and get to know more about my journey in the fascinating world of programming.
 
 <h2>About Me:</h2>
-I am a dedicated software enthusiast with a strong foundation in computer science and engineering. My passion for coding drives me to continually explore new technologies and strive for excellence in my craft. I am committed to constantly learning and growing as a developer, seeking out opportunities to apply my skills and knowledge.
+My background in computer science and engineering has given me a solid foundation as a devoted software lover. I'm constantly experimenting with new technologies and aiming for perfection in my work since I'm passionate about coding. I'm dedicated to developing professionally and am continuously looking for ways to put my knowledge and talents to use.
 
 <h2>Skills:</h2>
-I have acquired proficiency in a lot of programming languages, tools, and technologies. Here are some of them:<br>
+I've gotten good at using a variety of technologies, tools, and programming languages. Here are a few examples:<br>
 
 <h3>
-<li>Programming Languages: Python, JavaScript, Java, C++</li>
+<li>Programming Languages: C, C++, Python, Java</li>
 <li>Web Development: HTML, CSS, Javascript, React.js, Node.js</li>
 <li>Database Management: SQL, MongoDB</li>
 <li>Version Control: Git</li>
