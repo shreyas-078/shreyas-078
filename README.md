@@ -19,6 +19,7 @@ I enjoy solving complex problems using innovative approaches. I aim to push the 
 
 <h2>Projects: </h2>
 While I am proud of the progress I have made, I am continually working on expanding my project portfolio, and will soon be posting links to my work here.
+<li> Created a Report Generator Web Application using Flask, Reportlab and jQuery which can also send emails. </li>
 
 <h2>Future Endeavors:</h2>
 As I progress in my software development roadmap, I am eager to undertake more ambitious projects that showcase my skills in software engineering and problem-solving. I am actively seeking collaborative opportunities and open to discussing exciting software-related ideas.
