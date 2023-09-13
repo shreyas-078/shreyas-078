@@ -10,7 +10,7 @@ I'm good at using a variety of modern technologies, tools, and programming langu
 
 <h3>
 <li>Programming Languages: C, C++, Python, Java</li>
-<li>Web Development: HTML, CSS, Javascript, React.js, Node.js, Django</li>
+<li>Web Development: HTML, CSS, Javascript, React.js, Node.js, Django, Flask</li>
 <li>Database Management: SQL, MongoDB</li>
 <li>Version Control: Git</li>
 <li>Problem Solving and Algorithms</li>
