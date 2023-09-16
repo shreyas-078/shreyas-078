@@ -19,6 +19,7 @@ I enjoy solving complex problems using innovative approaches. I aim to push the 
 
 <h2>Projects: </h2>
 While I am proud of the progress I have made, I am continually working on expanding my project portfolio, and will soon be posting links to my work here.
+Here are some of the projects I have worked on/finished:
 <li> Created a Report Generator Web Application using Flask, Reportlab and jQuery which can also send emails. </li>
 
 <h2>Future Endeavors:</h2>
