@@ -3,24 +3,24 @@ Welcome to my coding portfolio!<img src="https://media.giphy.com/media/hvRJCLFzc
 My name is Shreyas Salankimatt, and I have a deep passion for coding and everything about to software development. This About serves as a showcase of my skills, interests, and projects. Feel free to explore and get to know more about my journey in the fascinating world of programming.
 
 <h2>About Me:</h2>
-My background in computer science and engineering has given me a solid foundation as a devoted software lover. I'm constantly experimenting with new technologies and aiming for perfection in my work since I'm passionate about coding. I'm dedicated to developing professionally and am continuously looking for ways to put my knowledge and talents to use.
+My background in computer science and engineering has given me a firm foundation as a devoted software development enthusiast. I'm always experimenting with new technologies and striving for perfection in my work since I'm passionate about coding.
 
 <h2>Skills:</h2>
-I'm good at using a variety of modern technologies, tools, and programming languages. Here are a few examples:<br>
+These are the Programming languages/Tools I am familiar with and have used before:<br>
 
 <h3>
-<li>Programming Languages: C, C++, Python, Java</li>
-<li>Web Development: HTML, CSS, Javascript, React.js, Node.js, Flask</li>
-<li>Database Management: SQL, MongoDB</li>
+<li>Python, C, C++ & Java</li>
+<li>Web Development Tools: HTML, CSS, Javascript, Flask & Node.js (Currently Learning React) </li>
+<!-- <li>Database Management: SQL & MongoDB</li> -->
 <li>Version Control: Git, GitHub </li>
-<li>Problem Solving and Algorithms</li>
+<li>Problem Solving & Algorithms</li>
 </h3>
-I enjoy solving complex problems using innovative approaches. I aim to push the boundaries of my knowledge and deliver high-quality solutions with every block of code I write.
+I like solving complex problems using innovative approaches, and reduce the complexity of huge problems by writing shorter code in general.
 
 <h2>Projects: </h2>
-While I am proud of the progress I have made, I am continually working on expanding my project portfolio, and will soon be posting links to my work here.
-Here are some of the projects I have worked on/finished:
-<li> Created a Report Generator Web Application using Flask, Reportlab and jQuery which can also send emails. </li>
+Most of the projects I have worked on are publicly available on my GitHub.<br>
+The Notable projects are:<br>
+<li> Created a Report Generator Web Application using Flask, Reportlab and jQuery which can send emails using SMTPLib. </li>
 
 <h2>Future Endeavors:</h2>
 As I progress in my software development roadmap, I am eager to undertake more ambitious projects that showcase my skills in software engineering and problem-solving. I am actively seeking collaborative opportunities and open to discussing exciting software-related ideas.
