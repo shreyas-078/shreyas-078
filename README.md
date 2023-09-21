@@ -8,13 +8,14 @@ My background in computer science and engineering has given me a firm foundation
 <h2>Skills:</h2>
 These are the Programming languages/Tools I am familiar with and have used before:<br>
 
-<h3>
+<b>
 <li>Python, C, C++ & Java</li>
 <li>Web Development Tools: HTML, CSS, Javascript, Flask & Node.js (Currently Learning React) </li>
 <!-- <li>Database Management: SQL & MongoDB</li> -->
 <li>Version Control: Git, GitHub </li>
 <li>Problem Solving & Algorithms</li>
-</h3>
+</b>
+
 I like solving complex problems using innovative approaches, and reduce the complexity of huge problems by writing shorter code in general.
 
 <h2>Projects: </h2>
