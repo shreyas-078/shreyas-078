@@ -22,6 +22,7 @@ I like solving complex problems using innovative approaches, and reduce the comp
 Most of the projects I have worked on are publicly available on my GitHub.<br>
 The Notable projects are:<br>
 <li> Created a Report Generator Web Application using Flask, Reportlab and jQuery which can send emails using SMTPLib. </li>
+<li>Created a Small Web Hub For VTU Students which contains Resources for Exam Prep and Problem Solvers using HTML, CSS, JS and Flask (https://vtuhub.pythonanywhere.com/)</li>
 
 <h2>Future Endeavors:</h2>
 As I progress in my software development roadmap, I am eager to undertake more ambitious projects that showcase my skills in software engineering and problem-solving. I am actively seeking collaborative opportunities and open to discussing exciting software-related ideas.
