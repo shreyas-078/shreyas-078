@@ -31,10 +31,10 @@ As I progress in my software development roadmap, I am eager to undertake more a
 <h2>Get in Touch:</h2>
 Fellow Developer, let's collaborate on projects, and engage in stimulating discussions. If you'd like to reach out, feel free to contact me via:<br> 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/shreyas-salankimatt-83588a260/">
+  <a href="https://www.linkedin.com/in/shreyas-salankimatt-83588a260/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/shreyas_078">
+  <a href="https://twitter.com/shreyas_078" target = "_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
