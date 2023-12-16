@@ -11,7 +11,7 @@ These are the Programming languages/Tools I am familiar with and have used befor
 <b>
 <li>Python, C, C++ & Java</li>
 <li>Web Development Tools: HTML, CSS, Javascript, Flask & Node.js (Currently Learning React) </li>
-<!-- <li>Database Management: SQL & MongoDB</li> -->
+<li>Database Management: SQL & MongoDB</li>
 <li>Version Control: Git, GitHub </li>
 <li>Problem Solving & Algorithms</li>
 </b>
