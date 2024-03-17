@@ -25,7 +25,8 @@ The Notable projects are:<br>
 <li> Created a Small Web Hub For VTU Students which contains Resources for Exam Prep and Problem Solvers using HTML, CSS, JS and Flask. (https://vtuhub.pythonanywhere.com/) </li>
 <li> Created a Personal Discord Bot using discord.js to play music on Discord.</li>
 <li> Created a Program to automate the Short content creation of reddit stories, which are commonly seen on platforms like YT shorts or Instagram Reels.</li>
-<li>Currently Working on A Full Stack Web Application that can create TAX Invoices for Businesses in PDF format.</li>
+<li>Created A Full Stack Web Application that can create TAX Invoices for Businesses in PDF format.</li>
+<li>Currently working on creating a Data Center to query consolidated information over a LAN for my college.</li>
 
 <h2>Future Endeavors:</h2>
 As I progress in my software development roadmap, I am eager to undertake more ambitious projects that showcase my skills in software engineering and problem-solving. I am actively seeking collaborative opportunities and open to discussing exciting software-related ideas.
