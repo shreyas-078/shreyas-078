@@ -26,7 +26,8 @@ The Notable projects are:<br>
 <li> Created a Personal Discord Bot using discord.js to play music on Discord.</li>
 <li> Created a Program to automate the Short content creation of reddit stories, which are commonly seen on platforms like YT shorts or Instagram Reels.</li>
 <li>Created A Full Stack Web Application that can create TAX Invoices for Businesses in PDF format.</li>
-<li>Currently working on creating a Data Center to query consolidated information over a LAN for my college.</li>
+<li>Created a Data Center to query consolidated information over a LAN for my college.</li>
+<li>Currently working on A Research Paper on Medical Image Analysis using quantum Deep Learning.</li>
 
 <h2>Future Endeavors:</h2>
 As I progress in my software development roadmap, I am eager to undertake more ambitious projects that showcase my skills in software engineering and problem-solving. I am actively seeking collaborative opportunities and open to discussing exciting software-related ideas.
