@@ -1,5 +1,5 @@
 <h1>Shreyas' Coding Portfolio</h1>
-My name is Shreyas Salankimatt, and I have a deep passion for coding and everything about software development. This Portfolio serves as a showcase of my skills, interests, and projects. Feel free to explore and get to know more about my journey in the fascinating world of programming.<br>
+My name is Shreyas Salankimatt, and I like coding and software development. This Portfolio serves as a showcase of my skills, interests, and projects. Feel free to explore and get to know more about my journey in the fascinating world of programming.<br>
 
 # Skills:<br>
 
