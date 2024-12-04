@@ -28,7 +28,7 @@ Most of the projects I have worked on are publicly available on my GitHub.<br>
 The Notable projects are:<br>
 
 1. Created a Report Generator Web Application using Flask, Reportlab and jQuery which can send emails using SMTPLib.<br>
-2. Created a Web Hub For VTU Students which contains Resources for Exam Prep and Problem Solvers using HTML, CSS, JS and Flask. (https://vtuhub.pythonanywhere.com/)<br>
+2. Created a Web Hub For VTU Students which contains Resources for Exam Prep and Problem Solvers using HTML, CSS, JS and Flask. <br> <a href="vtuhub.pythonanywhere.com/"> Visit VTU Hub </a> <br>
 3. Created a Personal Discord Bot using discord.js to play music on Discord.<br>
 4. Created a Program to automate the Short content creation of reddit stories, which are commonly seen on platforms like YT shorts or Instagram Reels.<br>
 5. Created A Full Stack Web Application that can create TAX Invoices for Businesses in PDF format.<br>
