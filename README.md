@@ -1,10 +1,6 @@
 <h1>Shreyas' Coding Portfolio</h1>
 My name is Shreyas Salankimatt, and I like coding and software development. This Portfolio serves as a showcase of my skills, interests, and projects. Feel free to explore and get to know more about my journey in the fascinating world of programming.<br>
 
-# Stats: <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-078&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas-078&theme=dark&show_icons=true)
-
 # Tech Stack: <br>
 <div align="center">
   
