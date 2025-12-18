@@ -30,7 +30,7 @@ The Notable projects are:<br>
 4. Created a Program to automate the Short content creation of reddit stories, which are commonly seen on platforms like YT shorts or Instagram Reels.<br>
 5. Created A Full Stack Web Application that can create TAX Invoices for Businesses in PDF format.<br>
 6. Created a Data Center to query consolidated information over a LAN for my college.<br>
-7. Currently working on A Research Paper on Medical Image Analysis using quantum Deep Learning.
+7. Currently building Studease - A platform to make studying easier for students.
 
 # Get in Touch:
 Fellow Developer, let's collaborate on projects, and engage in stimulating discussions. If you'd like to reach out, feel free to contact me via:<br> 
