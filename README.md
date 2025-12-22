@@ -16,6 +16,9 @@ My name is Shreyas Salankimatt, and I like coding and software development. This
   
 </div>
 
+# TryHackMe Profile: <br>
+![Badge](https://tryhackme-badges.s3.amazonaws.com/shreyas078.png)
+
 # Projects:<br>
 Most of the projects I have worked on are publicly available on my GitHub.<br>
 The Notable projects are:<br>
