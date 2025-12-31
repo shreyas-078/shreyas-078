@@ -2,7 +2,6 @@
 
 My name is **Shreyas Salankimatt**, and I'm passionate about coding and software development. This portfolio serves as a showcase of my skills, interests, and projects. Feel free to explore and get to know more about my journey in the fascinating world of programming.
 
----
 
 ## Tech Stack
 
@@ -22,7 +21,6 @@ My name is **Shreyas Salankimatt**, and I'm passionate about coding and software
   
 </div>
 
----
 
 ## Featured Projects
 
@@ -40,15 +38,12 @@ Most of my work is publicly available on my [GitHub](https://github.com/shreyas-
 
 **Check this out:** [Visit VTU Hub](https://vtuhub.pythonanywhere.com/)
 
----
 
 ## Cybersecurity Profiles
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shreyas078.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shreyas078.png?v=2)
 
 Actively practicing cybersecurity through TryHackMe, strengthening my understanding of security principles and ethical hacking.
-
----
 
 ## Let's Connect
 
@@ -62,7 +57,6 @@ I'm always eager to collaborate on exciting projects and engage in stimulating d
   
 </div>
 
----
 
 <div align="center">
   
@@ -70,6 +64,5 @@ I'm always eager to collaborate on exciting projects and engage in stimulating d
   
 </div>
 
----
 
 ![](https://komarev.com/ghpvc/?username=shreyas-078&color=green)
