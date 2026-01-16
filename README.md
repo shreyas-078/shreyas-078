@@ -41,7 +41,7 @@ Most of my work is publicly available on my [GitHub](https://github.com/shreyas-
 
 ## Cybersecurity Profiles
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shreyas078.png?v=2)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shreyas078.png?v=3)
 
 Actively practicing cybersecurity through TryHackMe, strengthening my understanding of security principles and ethical hacking.
 
