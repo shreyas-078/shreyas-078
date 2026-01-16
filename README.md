@@ -38,13 +38,6 @@ Most of my work is publicly available on my [GitHub](https://github.com/shreyas-
 
 **Check this out:** [Visit VTU Hub](https://vtuhub.pythonanywhere.com/)
 
-
-## Cybersecurity Profiles
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/shreyas078.png?v=3)
-
-Actively practicing cybersecurity through TryHackMe, strengthening my understanding of security principles and ethical hacking.
-
 ## Let's Connect
 
 I'm always eager to collaborate on exciting projects and engage in stimulating discussions. Feel free to reach out via:
@@ -60,7 +53,7 @@ I'm always eager to collaborate on exciting projects and engage in stimulating d
 
 <div align="center">
   
-  Thank you for visiting my coding portfolio. I hope you find it informative. Let's build something together!
+  Thank you for visiting my portfolio. I hope you find it informative. Let's build something together!
   
 </div>
 
